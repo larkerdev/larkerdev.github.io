@@ -1,0 +1,25 @@
+.e9login-container {
+  max-height: 360px !important;
+  min-height: 300px !important;
+  height: 100%;
+}
+.e9login-content {
+  min-width: 800px;
+  max-height: 360px !important;
+  min-height: 300px !important;
+  height: 100%;
+}
+.e8FormCloud{
+  height: 100%;
+  top: 30px !important;
+  vertical-align: middle;
+}
+.e9login-custom{
+  max-height: 360px !important;
+  min-height: 300px !important;
+  height: 100%;
+}
+
+.basic-content{
+  min-height: 80vh;
+}
